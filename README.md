@@ -30,7 +30,7 @@ Upon our analysis, we identified the following key statistics:
 
 In conclusion, bikeshare services are remarkably popular in busy metropolitan areas, where occupied real estate is densely packed and parking spaces may be scarce. The user base is made up mostly of male subscribers, providing regular income to the program. More outreach should be done to attract female riders, but male users seem a reliable market. And main usage seems focused around morning and evening commute times.
 
-If I were to pursue additional lines of inquiry for analysis and visualization, given the data provided, I would explore:
+If we were to pursue additional lines of inquiry for analysis and visualization, given the data provided, we would explore:
 
  - The trip starting and ending locations during morning and evening rush hour time-windows, to display the flow of traffic between neighborhoods at peak hours;
  - The average trip duration, by birth year, by gender, to explore if there was any difference in male or female or un-gendered riders as they age.
